@@ -1,0 +1,30 @@
+{
+  "template": "https://github.com/superlinear-ai/poetry-cookiecutter",
+  "commit": "c655d6f8c25bfaabac2d55e60a0fe209e8b6211b",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_type": "app",
+      "project_name": "Scenery",
+      "project_description": "A mock application to test a fully locally running RAG and LLM application",
+      "project_url": "https://github.com/LukV/scenery",
+      "author_name": "Luk Verhelst",
+      "author_email": "luk.verhelst@gmail.com",
+      "python_version": "3.12",
+      "development_environment": "simple",
+      "with_conventional_commits": "1",
+      "with_fastapi_api": "1",
+      "with_typer_cli": "1",
+      "continuous_integration": "GitHub",
+      "private_package_repository_name": "",
+      "private_package_repository_url": "",
+      "__docker_image": "python:$PYTHON_VERSION-slim",
+      "__docstring_style": "NumPy",
+      "__project_name_kebab_case": "scenery",
+      "__project_name_snake_case": "scenery",
+      "_template": "https://github.com/superlinear-ai/poetry-cookiecutter",
+      "_commit": "c655d6f8c25bfaabac2d55e60a0fe209e8b6211b"
+    }
+  },
+  "directory": null
+}
